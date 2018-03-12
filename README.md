@@ -8,12 +8,15 @@ Then, I write different files to include the actual texts, music and images in d
 that player chooses.
 
 Starting scene:
+
 ![alt text](demo1.png)
 
-Option Scene:
+Normal Scene:
+
 ![alt text](demo2.png)
 
-Normal Scene:
+Option Scene:
+
 ![alt text](demo3.png)
 
 The actual game can be downloaded in the following link since the file is too big to upload in github.
